@@ -80,14 +80,6 @@ Developing scalable plugins for:
 * Backend Operations
 * Business Automation
 
-Currently Learning
-
-* Open Source Contribution Workflow
-* Git & GitHub Collaboration
-* Advanced PHP
-* Technical Project Management
-* Blockchain & Web3 Operations
-
 Developer Mindset
 
 Learn → Build → Contribute → Scale
