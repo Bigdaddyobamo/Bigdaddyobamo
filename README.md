@@ -1,51 +1,36 @@
 <!-- HEADER BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,100:1e293b&height=140&section=header&text=MICHAEL%20A.%20OBAMO&fontSize=30&fontColor=ffffff" alt="Michael A. Obamo" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,100:1e293b&height=140&section=header&text=MICHAEL%20A.%20OBAMO&fontSize=30&fontColor=ffffff" />
 </p>
 
 <p align="center">
-<strong>WordPress Developer | PHP, Custom Themes &amp; Plugins | WooCommerce | Backend Troubleshooting</strong>
+Full-Stack Developer | Technical Project Manager | Cybersecurity & Cloud Security Enthusiast
 </p>
 
-## About me
+---
 
-I build and maintain WordPress websites, develop custom PHP themes and plugins, and support WooCommerce stores. My work includes API integrations, database-backed functionality, inventory troubleshooting, and diagnosing plugin compatibility issues.
+## IDENTITY
 
-I work as a Backend Developer & WordPress Specialist with Arewatees and Blanksforbrands. My maintenance work includes regular SEO reviews and assessing plugins before applying updates. I also contribute to open-source projects through GitHub pull requests.
+I design and build scalable digital systems, manage technical products, and develop backend-driven solutions with a focus on structure, performance, and usability.
 
-## WordPress work
+I am currently transitioning into Cybersecurity and Cloud Security, focusing on secure architecture, system hardening, and infrastructure protection.
 
-### Arewatees - My Peace Project
+---
 
-Developed a custom WordPress plugin for the **My Peace Project** campaign. Visitors could vote for their spoken language, with submissions associated with location and time information.
+## NOW / BUILDING / LEARNING
 
-- Implemented backend processing and database storage for votes.
-- Worked with an IP geolocation service and the Google Maps API.
-- Built the plugin to help understand participating visitors' language preferences and geographic distribution.
+| NOW | BUILDING | LEARNING |
+|-----|----------|----------|
+| Backend Systems | Web Platforms | Cybersecurity Fundamentals |
+| Product Management | WordPress Ecosystems | Cloud Security (AWS) |
+| UI/UX Systems | Custom Plugins | Secure System Design |
+| Open Source Engineering | Scalable APIs | Secure Development Practices |
 
-Project website: [Arewatees](https://arewatees.com)
+---
 
-### Arewatees & Blanksforbrands - Website development and maintenance
+## TECH STACK
 
-- Develop and maintain WordPress websites and support WooCommerce stores.
-- Build custom plugins for inventory automation and backend management.
-- Troubleshoot inventory that fails to update after customer purchases.
-- Diagnose eCommerce failures caused by incompatible plugin updates.
-- Review website SEO every two weeks and vet plugins before updating.
-
-Project website: [Blanksforbrands](https://blanksforbrands.com)
-
-### Worldkonet - Founder & Lead Developer
-
-Built a WordPress platform for data and news content, integrated analytics and monetization features, and developed a chatroom with voice functionality.
-
-## Technical skills
-
-**WordPress:** Custom PHP themes, custom plugins, Elementor, WooCommerce  
-**Development:** PHP, JavaScript, HTML5, CSS3, MySQL, REST API integration, Git and GitHub  
-**Additional skills:** Python, TypeScript and Tailwind CSS  
-**Website operations:** SEO implementation, performance optimization, caching, Cloudflare and cPanel
-
+### Development
 <p>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -58,14 +43,9 @@ Built a WordPress platform for data and news content, integrated analytics and m
 <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
 </p>
 
-## Selected open-source contributions
+---
 
-- [StellarGate #930](https://github.com/StellarGateLabs/StellarGate/pull/930) - Merged dashboard print stylesheet to keep payment tables readable when printed.
-- [Stellar Stream Hive #145](https://github.com/Stellar-Hive/stellar-stream-hive-frontend/pull/145) - Merged progress-bar accessibility improvements for screen readers.
-- [StellarEduPay #1460](https://github.com/StellarEdu/StellarEduPay/pull/1460) - Merged admin-page noindex headers, robots.txt rules and mobile layout fixes.
-
-## Tools & workflow
-
+### Tools & Workflow
 <p>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
@@ -76,13 +56,9 @@ Built a WordPress platform for data and news content, integrated analytics and m
 <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" />
 </p>
 
-I use Codex (ChatGPT) to support repository review, technical documentation and routine repository editing.
+---
 
-<details>
-<summary>Security & cloud learning interests</summary>
-
-I am also developing my knowledge of secure development practices, Linux and AWS.
-
+### Cybersecurity & Cloud (Learning Path)
 <p>
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
@@ -92,12 +68,28 @@ I am also developing my knowledge of secure development practices, Linux and AWS
 <img src="https://img.shields.io/badge/Nmap-004A7C?style=for-the-badge" />
 </p>
 
-</details>
+---
 
-## Connect
+## OPEN SOURCE ENGINEERING
 
-[LinkedIn](https://www.linkedin.com/in/michael-obamo-2a0590263/)
+I actively engage in open source development to strengthen collaboration skills, improve backend engineering practices, and contribute to security-focused and scalable systems.
+
+My focus in open source is not just contribution, but:
+- Understanding production-level codebases  
+- Learning secure development patterns  
+- Improving backend architecture skills  
+- Collaborating using Git-based workflows  
+- Building security-aware engineering habits  
 
 ---
 
-Build useful websites. Understand the problem. Take ownership of the solution.
+## CONNECT
+
+LinkedIn  
+https://ng.linkedin.com/in/michael-obamo-2a0590263  
+
+---
+
+## PHILOSOPHY
+
+Build with structure. Secure with intent. Scale with discipline.
